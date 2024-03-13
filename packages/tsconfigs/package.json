@@ -1,0 +1,9 @@
+{
+  "name": "tsconfigs",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "exports": {
+    "./config": "./configs/tsconfig.json"
+  }
+}
