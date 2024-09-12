@@ -8,6 +8,7 @@
     "packages/*"
   ],
   "devDependencies": {
+    "tsconfigs": "workspace:^",
     "typescript": "^5.5.4"
   }
 }
